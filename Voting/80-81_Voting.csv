@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Julius Erving,30,PHI,28,454,690,0.658,82,35,24.6,8,4.4,2.1,1.8,0.521,0.222,0.787,13.8,0.231,80-81
 2,Larry Bird,24,BOS,20,423,690,0.613,82,39.5,21.2,10.9,5.5,2,0.8,0.478,0.27,0.863,10.8,0.16,80-81
 3,Kareem Abdul-Jabbar,33,LAL,8,286,690,0.414,80,37.2,26.2,10.3,3.4,0.7,2.9,0.574,0,0.766,14.3,0.23,80-81
@@ -30,4 +30,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 24T,James Silas,31,SAS,0,3,690,0.004,75,27.4,17.7,3.1,3.8,0.7,0.2,0.477,0,0.85,7,0.164,80-81
 30T,Quinn Buckner,26,MIL,0,1,690,0.001,82,29.1,13.3,3.6,4.7,2.4,0,0.493,0.167,0.734,5.4,0.108,80-81
 30T,Caldwell Jones,30,PHI,0,1,690,0.001,81,32.6,7.2,10,1.5,0.7,1.7,0.449,,0.767,5.5,0.1,80-81
-,,,,,,,,,,,,,,,,,,,,

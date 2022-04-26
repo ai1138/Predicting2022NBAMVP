@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Michael Jordan,24,CHI,47,665,800,0.831,82,40.4,35,5.5,5.9,3.2,1.6,0.535,0.132,0.841,21.2,0.308,87-88
 2,Larry Bird,31,BOS,16,527,800,0.659,76,39,29.9,9.3,6.1,1.6,0.8,0.527,0.414,0.916,15,0.243,87-88
 3,Magic Johnson,28,LAL,16,508,800,0.635,72,36.6,19.6,6.2,11.9,1.6,0.2,0.492,0.196,0.853,10.9,0.199,87-88
@@ -16,4 +16,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 14T,Mark Aguirre,28,DAL,0,1,800,0.001,77,33.9,25.1,5.6,3.6,0.9,0.7,0.475,0.302,0.77,8.8,0.163,87-88
 14T,Adrian Dantley,32,DET,0,1,800,0.001,69,31.1,20,3.3,2.5,0.6,0.1,0.514,0,0.86,9.4,0.21,87-88
 14T,Buck Williams,27,NJN,0,1,800,0.001,70,37.7,18.3,11.9,1.6,1,0.6,0.56,1,0.668,7.6,0.138,87-88
-,,,,,,,,,,,,,,,,,,,,

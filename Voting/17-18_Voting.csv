@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,James Harden,28,HOU,86,965,1010,0.955,72,35.4,30.4,5.4,8.8,1.8,0.7,0.449,0.367,0.858,15.4,0.289,17-18
 2,LeBron James,33,CLE,15,738,1010,0.731,82,36.9,27.5,8.6,9.1,1.4,0.9,0.542,0.367,0.731,14,0.221,17-18
 3,Anthony Davis,24,NOP,0,445,1010,0.441,75,36.4,28.1,11.1,2.3,1.5,2.6,0.534,0.34,0.828,13.7,0.241,17-18
@@ -12,4 +12,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 10T,Stephen Curry,29,GSW,0,5,1010,0.005,51,32,26.4,5.1,6.1,1.6,0.2,0.495,0.423,0.921,9.1,0.267,17-18
 12,Joel Embiid,23,PHI,0,4,1010,0.004,63,30.3,22.9,11,3.2,0.6,1.8,0.483,0.308,0.769,6.2,0.155,17-18
 13,Victor Oladipo,25,IND,0,2,1010,0.002,75,34,23.1,5.2,4.3,2.4,0.8,0.477,0.371,0.799,8.2,0.155,17-18
-,,,,,,,,,,,,,,,,,,,,

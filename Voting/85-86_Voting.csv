@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Larry Bird,29,BOS,73,765,780,0.981,82,38,25.8,9.8,6.8,2,0.6,0.496,0.423,0.896,15.8,0.244,85-86
 2,Dominique Wilkins,26,ATL,5,407,780,0.522,78,39.1,30.3,7.9,2.6,1.8,0.6,0.468,0.186,0.818,10.8,0.17,85-86
 3,Magic Johnson,26,LAL,0,205,780,0.263,72,35.8,18.8,5.9,12.6,1.6,0.2,0.526,0.233,0.871,12.1,0.226,85-86
@@ -17,4 +17,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 16T,Adrian Dantley,30,UTA,0,2,780,0.003,76,36.1,29.8,5.2,3.5,0.8,0.1,0.563,0.091,0.791,12.8,0.223,85-86
 16T,Buck Williams,25,NJN,0,2,780,0.003,82,37.4,15.9,12,1.6,0.9,1.2,0.523,0,0.676,6.8,0.106,85-86
 18,Dennis Johnson,31,BOS,0,1,780,0.001,78,35,15.6,3.4,5.8,1.4,0.4,0.455,0.143,0.818,6.7,0.118,85-86
-,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Charles Barkley,29,PHO,59,835,980,0.852,76,37.6,25.6,12.2,5.1,1.6,1,0.52,0.305,0.765,14.4,0.242,92-93
 2,Hakeem Olajuwon,30,HOU,22,647,980,0.66,82,39.5,26.1,13,3.5,1.8,4.2,0.529,0,0.779,15.8,0.234,92-93
 3,Michael Jordan,29,CHI,13,565,980,0.577,78,39.3,32.6,6.7,5.5,2.8,0.8,0.495,0.352,0.837,17.2,0.27,92-93
@@ -13,4 +13,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 10T,Joe Dumars,29,DET,0,1,980,0.001,77,40.2,23.5,1.9,4,1,0.1,0.466,0.375,0.864,9.1,0.141,92-93
 10T,Shawn Kemp,23,SEA,0,1,980,0.001,78,33.1,17.8,10.7,2,1.5,1.9,0.492,0,0.712,9.1,0.169,92-93
 10T,John Stockton,30,UTA,0,1,980,0.001,82,34.9,15.1,2.9,12,2.4,0.3,0.486,0.385,0.798,10.6,0.177,92-93
-,,,,,,,,,,,,,,,,,,,,

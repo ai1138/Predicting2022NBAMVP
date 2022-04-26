@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Michael Jordan,32,CHI,109,1114,1130,0.986,82,37.7,30.4,6.6,4.3,2.2,0.5,0.495,0.427,0.834,20.4,0.317,95-95
 2,David Robinson,30,SAS,0,574,1130,0.508,82,36.8,25,12.2,3,1.4,3.3,0.516,0.333,0.761,18.3,0.29,95-95
 3,Anfernee Hardaway,24,ORL,2,360,1130,0.319,82,36.8,21.7,4.3,7.1,2,0.5,0.513,0.314,0.767,14.4,0.229,95-95
@@ -16,4 +16,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 15,Dennis Rodman,34,CHI,0,4,1130,0.004,64,32.6,5.5,14.9,2.5,0.6,0.4,0.48,0.111,0.528,6.2,0.143,95-95
 16T,Terrell Brandon,25,CLE,0,3,1130,0.003,75,34.3,19.3,3.3,6.5,1.8,0.4,0.465,0.387,0.887,12.7,0.237,95-95
 16T,Mitch Richmond,30,SAC,0,3,1130,0.003,81,36.4,23.1,3.3,3.1,1.5,0.2,0.447,0.437,0.866,9.3,0.151,95-95
-,,,,,,,,,,,,,,,,,,,,

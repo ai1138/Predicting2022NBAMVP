@@ -1,4 +1,4 @@
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
+﻿Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Year
 1,Moses Malone,26,HOU,40,507,690,0.735,81,42,31.1,14.7,1.8,0.9,1.5,0.519,0,0.762,15.4,0.218,81-82
 2,Larry Bird,25,BOS,20,406,690,0.588,77,38,22.9,10.9,5.8,1.9,0.9,0.503,0.212,0.863,12.5,0.205,81-82
 3,Julius Erving,31,PHI,1,203,690,0.294,81,34.4,24.4,6.9,3.9,2,1.7,0.546,0.273,0.763,13.3,0.229,81-82
@@ -24,4 +24,3 @@ Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,
 21T,Jay Vincent,22,DAL,0,1,690,0.001,81,32.4,21.4,7,2.2,1.1,0.3,0.497,0.25,0.716,5.6,0.102,81-82
 21T,Jamaal Wilkes,28,LAL,0,1,690,0.001,82,35.4,21.1,4.8,1.7,1.1,0.3,0.525,0,0.732,7.7,0.127,81-82
 21T,Buck Williams,21,NJN,0,1,690,0.001,82,34.5,15.5,12.3,1.3,1,1,0.582,0,0.624,8.9,0.152,81-82
-,,,,,,,,,,,,,,,,,,,,

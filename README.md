@@ -19,4 +19,5 @@ In order to make this project happen, data from both basketball reference and ka
 
 
 # Running the code
-Simply open the jupter notebook and export it into google collabs. You also need to download the xslx files as well and load them into your collab session or into your google drive. This way pandas can actually open the file and run the analytics we ran. All the analytics have already been ran and saved in the notebook for everyone to look at
+Simply have anaconda installed on your machine and open the jupter notebook. Alternatively this can be exported it into a google collabs notebooks. You also need to download the xslx/csv files as well and load them into your collab session or into your google drive. This way pandas can actually open the file and run the analytics we ran. All the analytics have already been ran and saved in the notebook for everyone to look at
+

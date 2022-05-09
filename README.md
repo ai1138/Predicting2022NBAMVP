@@ -1,5 +1,5 @@
 
-# Predicting the NBA 2021-2022 MVP Voting Rave
+# Predicting the NBA 2021-2022 MVP Voting Race
 We will be attempting to determine who will win the NBA Most Valuable Player award using machine learning methods such as SVM/Linear Regression. Our findings will be based on the advanced analystics of past MVP winners, their teams and the advanced analytics of this years players. 
 
 # Data Studied

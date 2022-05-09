@@ -1,6 +1,6 @@
 
 # Predicting the NBA 2021-2022 MVP Voting Race
-We will be attempting to determine who will win the NBA Most Valuable Player award using machine learning methods such as SVM/Linear Regression. Our findings will be based on the advanced analystics of past MVP winners, their teams and the advanced analytics of this years players. 
+We will be attempting to determine who will win the NBA Most Valuable Player award using machine learning methods such as SVM/Linear Regression. Our findings will be based on the advanced analystics of past MVP winners, their teams and the advanced analytics of this years players. We will then validate and compare the models and make a final conclusion of the work done
 
 # Data Studied
 In order to make this project happen, data from both basketball reference and kaggle was needed inorder to create the prediction models for the NBA mvp race.
